@@ -12,6 +12,7 @@ Here you'll find community contributions to the Gotify project.
 - [mskian/gotify-apache](https://github.com/mskian/gotify-apache) Install and Configure Gotify without Docker in Apache Server.
 - [render-examples/gotify-server](https://github.com/render-examples/gotify-server) A guide to deploying `gotify/server` on [Render](https://render.com).
 - [YunoHost-Apps/gotify_ynh](https://github.com/YunoHost-Apps/gotify_ynh) `gotify/server` as package for [YunoHost](https://yunohost.org).
+- [Proxmox Notifications](https://homelab.casaursus.net/proxmox-notifications/) a guide how to recive alarms on iPhones/iPads from Proxmox. 
 
 ## Libraries
 
